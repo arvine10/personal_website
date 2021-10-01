@@ -320,6 +320,11 @@ h1{
     opacity: 1;
 }
 
+.layer:active h3{
+    bottom: 49%;
+    opacity: 1;
+}
+
 
 @media(max-width:700px){
 
