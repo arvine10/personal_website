@@ -327,13 +327,7 @@ h1{
 
     .campus .row{
         flex-direction: column;
-    }
-
-    .layer:active h3{
-        bottom: 49%;
-        opacity: 1;
-    }
-    
+    }   
 
 
 }
